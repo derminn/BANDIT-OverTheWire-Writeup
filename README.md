@@ -104,5 +104,5 @@ not just finding answers.
 
 *Series fully completed — April 2026*
 ## 
-[Detailed Writeuo(PDF)]()
+[Detailed Writeup(PDF)](https://github.com/derminn/BANDIT-OverTheWire-Writeup/blob/main/BANDIT%20-%20Over%20The%20Wire.pdf)
 ---
